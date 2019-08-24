@@ -60,7 +60,7 @@ stack s;
 int ch=1,num;
 while(ch!=0)
 {
-	cout<<"Stack Operations Mani Menu
+	cout<<"Stack Operations Main Menu
 1.Push
 2.Pop
 3.IsEmpty
